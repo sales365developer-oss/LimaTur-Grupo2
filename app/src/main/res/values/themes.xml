@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.LimaTur" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#0B6E69</item>
+        <item name="colorPrimaryVariant">#064E4A</item>
+        <item name="colorSecondary">#E69A3A</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#064E4A</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>
